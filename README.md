@@ -8,6 +8,8 @@
 </figure>
 
 
+#### 使用方法见 index.html中的示例
+
 #### 添加歌单,打开js/music.js 中的代码。修改如图所示的内容
 <figure class="center">
     <img src="https://github.com/kang558/163music/blob/master/code.png">
