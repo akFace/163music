@@ -4,7 +4,7 @@
 
 #### 效果预览
 <figure class="center">
-    <img src="https://github.com/kang558/163music/blob/master/screenshot.gif">
+    <img src="https://github.com/kang558/163music/blob/master/screenshot/screenshot.gif">
 </figure>
 
 
@@ -12,5 +12,5 @@
 
 #### 添加歌单,打开js/music.js 中的代码。修改如图所示的内容
 <figure class="center">
-    <img src="https://github.com/kang558/163music/blob/master/code.png">
+    <img src="https://github.com/kang558/163music/blob/master/screenshot/code.png">
 </figure>
